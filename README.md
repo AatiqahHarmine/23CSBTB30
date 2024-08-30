@@ -4,3 +4,5 @@
 1.(C)[https://github.com/AatiqahHarmine/23CSBTB30/blob/main/Untitled1.ipynb]
 
 2.[https://github.com/AatiqahHarmine/23CSBTB30/blob/main/Assignment_2.ipynb]
+
+3.[https://github.com/AatiqahHarmine/23CSBTB30/blob/main/Assignment_3.ipynb]
