@@ -10,3 +10,5 @@
 4.[https://github.com/AatiqahHarmine/23CSBTB30/blob/main/Assignment4.ipynb]
 
 5.[https://github.com/AatiqahHarmine/23CSBTB30/blob/main/Assignment5.ipynb]
+
+6.[https://github.com/AatiqahHarmine/23CSBTB30/blob/main/Assignment6.ipynb]
