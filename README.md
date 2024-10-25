@@ -14,3 +14,5 @@
 6.[https://github.com/AatiqahHarmine/23CSBTB30/blob/main/Assignment6.ipynb]
 
 7.[https://github.com/AatiqahHarmine/23CSBTB30/blob/main/SVM.ipynb]
+
+8.[https://github.com/AatiqahHarmine/23CSBTB30/blob/main/Decision%20Tree.ipynb]
