@@ -16,3 +16,5 @@
 7.[https://github.com/AatiqahHarmine/23CSBTB30/blob/main/SVM.ipynb]
 
 8.[https://github.com/AatiqahHarmine/23CSBTB30/blob/main/Decision%20Tree.ipynb]
+
+9.[https://github.com/AatiqahHarmine/23CSBTB30/blob/main/Lab%20Exam.ipynb]
